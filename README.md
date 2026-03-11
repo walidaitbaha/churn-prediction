@@ -11,7 +11,7 @@ Machine Learning (XGBoost + SMOTE).
 | **XGBoost + SMOTE** | **0.91** | **0.93** |
 
 ## 🔗 Live Demo
-👉 [Try the app here](YOUR_STREAMLIT_URL)
+👉 [[Try the app here](https://churn-prediction-walid.streamlit.app/)](YOUR_STREAMLIT_URL)
 
 ## 📊 Key Findings
 - Customers with month-to-month contracts churn 3x more
